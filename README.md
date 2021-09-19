@@ -2,7 +2,7 @@
 # Google Drive Index + Dark Mode
 ![GitHub repo size](https://img.shields.io/github/repo-size/cheems/goindex-extended) [![Generic badge](https://img.shields.io/badge/Author-cheems-blue.svg)](https://shields.io/)
 
-Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) and [Google Drive](https://www.google.com/drive/) will allow you to index your files on the browser on Cloudflare Workers. 
+Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) & [Google Drive](https://www.google.com/drive/) will allow you to index your files on the browser on Cloudflare Workers. 
 
 This theme's goindex is currently based on [yanzai/goindex](https://github.com/yanzai/goindex/)
 ## Features
@@ -11,11 +11,11 @@ This theme's goindex is currently based on [yanzai/goindex](https://github.com/y
  - Music Player - | mp3 | flac | wav | ogg | m4a
  - Document Viewer - | html | php | css | go | java | js | json | txt | sh | md | pdf
  - Image Viewer - | bmp | jpg | jpeg | png | gif
- - Multi-level Search within default and team/shared drives
+ - Multi-level Search within default & team/shared drives
  - Multi drive encryption
  - Support for all characters including emojies in file/folder names
  - Mobile Friendly
- - Page-level caching, browser forward and backward without reloading
+ - Page-level caching, browser forward & backward without reloading
  - Dark Theme
  - Actions tab, includes several options
 	 - Direct download
