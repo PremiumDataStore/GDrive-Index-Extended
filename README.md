@@ -1,6 +1,6 @@
 ![Preview](https://raw.githubusercontent.com/cheems/goindex-extended/master/images/preview.png)
 # Google Drive Index + Dark Mode
-![GitHub repo size](https://img.shields.io/github/repo-size/cheems/goindex-extended) [![Generic badge](https://img.shields.io/badge/Author-cheems-blue.svg)](https://shields.io/)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/cheems/goindex-extended) [![Generic Badge](https://img.shields.io/badge/Author-cheems-blue.svg)](https://shields.io/)
 
 Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) & [Google Drive](https://www.google.com/drive/) will allow you to index your files on the browser on Cloudflare Workers. 
 
